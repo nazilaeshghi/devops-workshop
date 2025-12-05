@@ -1,1 +1,1 @@
-print("Hello DevOps from GitHub Actions!")
+print("Pipeline is working!")
